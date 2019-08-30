@@ -1,4 +1,4 @@
 package org.launchcode.controllers;
 
-public class test {
+public class test2 {
 }
