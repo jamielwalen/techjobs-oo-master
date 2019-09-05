@@ -73,7 +73,7 @@ public class JobController {
 
             ArrayList<Job> jobs = jobData.findAll();
             jobID = jobs.indexOf(newJob);
-            jobID = jobID +1;
+
 
             return "redirect:/job";
         }
